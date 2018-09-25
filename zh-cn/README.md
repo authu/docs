@@ -28,5 +28,5 @@ authu存在与auth0相似的功能（主要为设计实现），但侧重点不�
 我们希望与您一同进步    
 
 # License
-该项目工程，以Apache License 2.0授权
+该项目工程，以Apache License 2.0授权   
 文章内容，未做特别声明的，以Creative Commons 4.0授权，所属Authu团队或者相关PRer/Issuer   
