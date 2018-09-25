@@ -6,12 +6,12 @@
 # Design
 ## 基于用户名的账户体系
 这是一个灵感来自GitHub账户体系的方案，用于解决单用户多邮箱或者多手机号问题。在方案内，一个用户名对应一用户，作为唯一标识。而第三方账户（邮箱、手机号、社交账户等）关联至用户名，可多个关联至一个，以解决现实中遇到的问题。   
-详细方案：<https://authu.github.io/d-username/#/zh-cn>
+详细方案：<https://authu.github.io/d-username/#/zh-cn/>
 
 ## Spring Cloud鉴权方案
 > TBD
 
-详细方案：<https://authu.github.io/d-spring-cloud/#/zh-cn>
+详细方案：<https://authu.github.io/d-spring-cloud/#/zh-cn/>
 
 # Service
 > TBD
